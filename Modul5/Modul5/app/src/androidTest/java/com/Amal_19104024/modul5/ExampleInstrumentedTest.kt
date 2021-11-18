@@ -1,4 +1,4 @@
-package com.rifqi_19104031.modul5
+package com.Amal_19104024.modul5
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
